@@ -162,3 +162,6 @@ cython_debug/
 # Docker volume
 lpse-data
 pg-data
+
+**/.ipynb_checkpoints
+**/*.ipynb
